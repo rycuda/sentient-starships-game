@@ -1,0 +1,99 @@
+'quacks magellanic' - factory ship
+
+BULK FREIGHTER (PL 6)
+
+Bulk freighters usually carry cargo in bulk containers, and carry out regular runs between densely populated systems.
+Type: Mediumweight 		Size: Colossal (–8 size)
+Subtype: Bulk freighter 	Tactical Speed: 3,500 ft. (5 sq.)
+Defense: 7 			Length: 800 ft.
+Flat-footed Defense: 5 		Weight: 32,000 tons
+Autopilot Defense:  		Targeting System Bonus: 
+Hardness: 40 			Crew: 8 (trained +4)
+Hit Dice: 125d20 (2,500 hp) 	Passenger Capacity: 8
+Initiative Modifier:  		Cargo Capacity: 7,500 tons
+Pilot’s Class Bonus:  		Grapple Modifier: +16
+Pilot’s Dex Modifier:  		Base Purchase DC: 60
+Gunner’s Attack Bonus:  	Restriction: Restricted (+2)
+
+
+Attack: -8 (size) +3 (targetting) + dex + gunner to hit bonus + range penalty
+
+Attack of Opportunity: Point-defense system +3 ranged (3d12×10)
+
+In place of three weapons, a starship maybe equipped with mining rippers – drills and scoops that eat through a planet or asteroid's surface and extract valuable materials. 
+Mining rippers can extract two tons of material each round though the ship must be moving at only 1 square per round for the device to work – any faster and the mining rippers are torn off and are completely destroyed. 
+The device instantly feeds the mined materials directly into a designated cargohold on the ship.
+
+11,15,16
+Dex 12
+
+
+* Pick your base ship size and stats from one of the predone models (and note it) i.e., courier, strike cruiser, etc
+ - Bulk Freighter
+* Determine engines, shielding, armor, etc.
+* Pick 2-4 special systems if desired
+ - Engines: Particle Impulse Engine, thrusters
+ - Armor: Neutronite (Hardness 40, 1/4 weight of ship) 
+ - Defense Systems: 
+   - Sub-Surface Armored Plating, (Damage that ignored hardness is halved)
+   - improved damage control (4d10), 
+   - point-defense system, 
+   - Medium fortification, (75% chance to negate criticals)
+   - Repair Drones (damage control as a free action)
+ - Sensors: 
+   - Class VI sensor array, 
+   - Combined sensors (Proximity Sensors | Targetting Sensors)
+ - Communications: 
+   - Mass transceiver
+   - Radio transceiver
+ - Weapons: 
+   - Mining Ripper(PJR301 pg4)
+   - Needle driver
+   - Needle driver
+ - Grappling Systems: 
+   - Tractor beam emitter
+ - Special: 
+   - Harvester System
+   - Fabricator System
+   - Heavy Load Body
+
+
+* Pick flaws (if desired)
+Combat Averse?
+Flies like a brick -  -500' base speed -2 to piloting checks in atmosphere
+
+* Generate basic character stats and skill focuses
+ - Str 
+ - Dex 12 +1
+ - Con - 
+ - Int 16 +3
+ - Wis 15 +2
+ - Cha 11
+
+* Pick base class
+ - The Smart Hero
+ - Lv1 Savant (Repair) ?
+ - Skills: 48
+   - Disable Device 4
+   - Navigate 4
+   - Repair 4
+   - Research 4
+   - Search 4
+   - Computer Use 4
+   - Pilot 4
+   - Knowledge (Physical Sciences) 4
+   - Craft (Mechanical) 4
+   - Craft (Structural) 4
+   - Craft (Electrical) 4
+   - Craft (Chemical) 4
+
+Databanks:
+Physical Science
+Construction
+Technology
+
+* Have idea of your ship structure appearance and abilities.  Feel free to describe in 1-2 paragraphs!
+hexagonal prism central hull, bracketed by two hemi-cylindrical shaped, with flat hexagonal cutouts. Two of the cutouts are populated by drones. 
+
+* Maybe a short personality archetype for moving forward.
+

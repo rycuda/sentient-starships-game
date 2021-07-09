@@ -1,0 +1,187 @@
+CREATING YOUR CHARACTERS
+
+As a starship character, this will require a bit of tweaking from normal character generation.  Of course, you shall be appropriate starships, with information found in the D20 Future SRD.  Please select from ultralight, light, or medium class starship categories.  This is available here:  http://spellbooksoftware.com/d20mrsd/futureships.html  You will design your starship self as per your own wishes, with the additional ship options noted at the end of this document.  Further information on many of the optional components not found in the SRD documentation will come from supplemental documentation, which can be found in http://dragons-burrow.com/dnd/ as well as a backup copy of the d20mrsd set.
+
+For your starting selves, you will pick from systems as noted, however you may take an additional defensive, engine, communication, or special system by taking a 'flaw'.  This flaw will be focused on personality and rolls, which can be selected from https://www.d20pfsrd.com/extras/community-creations/flaws/ or https://www.d20pfsrd.com/traits/drawbacks/ or https://www.dandwiki.com/wiki/3.5e_Flaws.  Please be sure to pick relevant ones (IE, no magical based ones).  Yes, Clinically Depressed Robot is an option and only one of you may acquire it.  This may be done up to two times at starting, though there will be options for removal of flaws later in the game plan.
+
+For the actual player portion of your ship self, follow the rules for a 'bioreplica' robot as laid out here: http://spellbooksoftware.com/d20mrsd/futurerobots.html  note that hit points, armor, and so on will be based with your ship self rather than this information.  You may then pick from a character subtype as per the Core SRD basic classes http://spellbooksoftware.com/d20mrsd/basicclasses.html.  However, when you level, your HD will not increase.  Instead, you may 'pool' your increases from HD to 'buy' improvements to your ship self from the weaponry, comm, defensive, and special subsystems, or upgrade an existing system.  You will also have slots for 3 libraries of data to be installed.  This pool includes the below categories:
+
+Arcane Lore: The occult, magic and the supernatural, astrology, numerology, and similar topics.
+Art: Fine arts and graphic arts, including art history and artistic techniques. Antiques, modern art, photography, and performance art forms such as music and dance, among others.
+Astronomy:  The knowledge of stars and wayfinding via them, detection and other means.
+Behavioral Sciences: Psychology, sociology, and criminology.
+Business: Business procedures, investment strategies, and corporate structures. Bureaucratic procedures and how to navigate them.
+Civics: Law, legislation, litigation, and legal rights and obligations. Political and governmental institutions and processes.
+Construction: The building of buildings, vehicles, and other common constructs.
+Current Events: Recent happenings in the news, sports, politics, entertainment, and foreign affairs.
+Earth and Life Sciences: Biology, botany, genetics, geology, and paleontology. Medicine and forensics.
+History: Events, personalities, and cultures of the past. Archaeology and antiquities.
+Military:  Knowledge of all things military in structure and nature, both planetside and space based.
+Planetary Sciences:  Knowledge of formation, resources, and so on of various planets and moonlets not found via general scans.
+Physical Sciences: Astronomy, chemistry, mathematics, physics, and engineering.
+Popular Culture: Popular music and personalities, genre films and books, urban legends, comics, science fiction, and gaming, among others.
+Starships:  Knowledge of various ship designs, models, abilities, so on.
+Streetwise: Street and urban culture, local underworld personalities and events.
+Tactics: Techniques and strategies for disposing and maneuvering forces in combat.
+Technology: Current developments in cutting-edge devices, as well as the background necessary to identify various technological devices.
+Theology and Philosophy: Liberal arts, ethics, philosophical concepts, and the study of religious faith, practice, and experience.
+
+If any questions arise we'll work through it here!
+
+SETTING:
+
+We will be functionally an early PL8 society on the progress level scale.  This means a lot of options are open to you for your ship-selves.  We will also be going by fantastical travel times, there will both be pure system jumping as well as massive star-gate based jumping, so be prepared!  Additionally, be aware you may at times have to transport biologic creatures, at least some of you.  Keep that in mind.
+
+RESOURCES:
+
+http://spellbooksoftware.com/d20mrsd/future.html
+http://dragons-burrow.com/dnd/
+https://www.d20pfsrd.com/extras/community-creations/flaws/
+https://www.d20pfsrd.com/traits/drawbacks/
+https://www.dandwiki.com/wiki/3.5e_Flaws
+http://spellbooksoftware.com/d20mrsd/futurerobots.html
+http://spellbooksoftware.com/d20mrsd/basicclasses.html
+
+EXTRAS
+
+Engines
+Auxilary Engine - 1d4-1 rounds destroyed/disabled engine comes back online
+Fuel Economizer - refueling +50% rounded up for fuels
+Improved Thrust - +500 ft, +250ft each after
+PL5 Thrusters - +0 ft, 1 Orbital mission, AS
+PL5 Secondary Fuel Tank - Trips before refueling increases by 1, -25% cargo.
+PL6 Fusion Torch - +500 ft, 3 Battles/Interplanetary trips, NAS
+PL6 Ion Engine - +500 ft, 5 Battles/Interplanetary Trips, NAS
+PL6 Photon Sails - +0, NAS
+PL6 Twin Engine System - +150% speed, -25% cargo, -1 weapon slot, if lose one engine, only have +50% speed (+1500->+2500)
+PL7 Induction Engine - +1000 ft, AS
+PL7 Particle Impulse Engine - +1000 ft, AS
+PL7 Advanced Surge Burners - Surge forward as move action 6 times before refueling
+PL7 Plasma Acceleration Drive - Boosts speed +500 ft. for 2d4 rounds
+PL7 Backup Engine - -1 defensive system, -25% cargo, add one more propulsion engine.  Only on Light+ ships.
+PL8 Gravitic Redirector - +1500 ft, NAS (33.2 days/light year w/ jump gate)
+PL8 Inertial Flux Engine - +1500 ft, NAS
+PL8 Quickjump Module - Ship with FTL/JGD can jump to cruising speed without provoking AOO
+PL9 Teleportation Drive - Teleport anywhere in current star system
+PL9 Spatial Compressor - +2000 ft, AS (2.6 days/light year w/ jump gate)
+
+Weapons
+Accuracy Enhancement - +2 Equip bonus on attack rolls
+Autofire System - Single/Semiauto can fire on autofire
+Expanded Range - doubles weapon range
+Maximum Firepower - 1 die increase (13d8 instead of 12d8 and such)
+Miniaturized - can fit in twice as many weapons as normal
+Voice Recognition System - requires spoken voice/command to activate weapons
+PL7 Burst Blinder Missile - Fort Save vs DC20 all ships on battlefield or blinded 1d6 Rounds
+PL7 Mag Ram - Ramming does x12 damage multiplier on opposing vessel, takes only x6 in return.  Normal if both have it
+PL8 Solar Storm Generator - Generates Solar Storm for 3d6 rounds, engines dead for 2d4 rounds, superheavy only, 5000 ft.
+PL8 Temporal Displacer - Moves hit ship forward/back 1d4+1 rounds, 10 minute recharge, 5000 ft.
+PL8 Variable Frequency Particle Beam - Same as PL7 version but bypasses Phased Energy Shields
+
+Armor
+PL5 Alloy Plating - -500 ft, 20
+PL6 Polymeric - -0 ft, 20
+PL6 Vanadium - -0 ft, 30
+PL7 Cerametal - -0 ft, 30
+Pl7 Deflective - -0 ft, 20B/40O
+PL7 Neutronite - -500 ft, 40
+PL8 Ablative - -0 ft, 40
+PL8 Advanced Ablative - -0 ft, 45
+PL8 Nanofluidic - -500 ft, 50
+
+Defensive Systems
+PL5 Autopilot System - +1/+2/+4 Defense
+PL5 Damage Control - 1d10-5d10 repair based on ship size
+PL5 Sensor Jammer - Sensors I & II take -5 penalty
+PL5 Automatic Fire Control System - Puts out fires, 10% chance electronics destroyed in process
+PL6 Advanced Autopilot System - +3/+4/+5 Defense
+PL6 Chaff Launcher - -10/-5 on sensor checks, missiles have 30% miss chance
+PL6 Improved Damage Control - +1d10 on damage control
+PL6 Decoy Drone Launcher - negates targetting bonus on attack rolls
+PL6 Magnetic Field - Ballistic damage -4 on attack
+PL6 Point Defense System - 1d12x10-5d12x10 defense, 20% missile destroyed, 1 AOO
+PL6 Radiation Shielding - +5 circumstance bonus against radiation poisoning
+PL6 Self-Destruct System - Cannot be salvaged, deals collateral damage 1d6x10-5d6x10
+PL6 Stealth Screen - 50% chance mine not go off, 20% conceal, -10 sensor checks
+PL7 Displacer - 30% miss chance
+PL7 Light Fortification - 25% chance crit hit fails
+PL7 Particle Field - nonballistic damage -4 on attack
+PL7 Repair Drones - Damage control free action each round
+PL7 Advanced Sensor Jammer - Class I-II have -8 check, Class III-IV have -5.
+PL7 Damage Stabilization System - max neg. points before destroyed +50%
+PL7 Improved Radiation Shielding - +8 circumstance against radiation poisoning
+PL7 MKI Evasive Action System - Total defense is move action, -2 on pilot checks
+PL7 Shock Stabilizers - Crew gets Reflex save vs DC20 to avoid being dazed/shaken/stunned due to collission or attacks
+PL7 Auto-Defense Drones - Same as Point Defense System, but 3 per round and can score crit hits
+PL7 Phased Energy Shields - 10 Rounds, -75% energy damage; extend 5 rounds taking -500ft speed, 20 rounds to recharge
+PL7 Structural Enhancement: +2d20 HD, -1 defensive system or -10 tons cargo
+PL7 Sub-Surface Armored Plating - Weapons that ignore armor/hardness deal -50% damage
+PL7 Electro-Gravitic Shielding - 80HP shield, recharges 5HP/round each round not hit 10+1/2
+PL7 Magnetically Reinforced Hull - Hardness +5
+PL7 Gravitic Stabilizers - 25% chance of not being stunned/dazed/shaken, replace shock stabilizers
+PL8 Nanite Shielding - Destroys 50% Nanite attacks
+PL8 Advanced Damage Control - +2d10 damage control on base
+PL8 Cloaking Screen - 50% conceal, mines cannot detect, cannot use chaff or fields.
+PL8 Medium Fortification - 75% crit hits negated
+PL8 Nanite Repair Array - Can do damage control when breaking up
+PL9 Heavy Fortification - All crit hits negated
+
+Sensors
+PL5 Class I Sensor Array
+PL6 Class II Sensor Array
+PL6 Class III Sensor Array - +2 Init
+PL6 Targetting System - +1/+2/+3 equipment bonus on attack rolls.
+PL6 Range Extension Software - +1000 ft. to weapon range, PL8 Version another 1000 ft.
+PL6 Proximity Sensors - Withdraw or jump to cruising speed without AOO vs check Pilot (15+opposing starship captain's)
+PL7 Tactical Analysis Computer - Perform Tactical Analysis 18/23/28
+PL7 Synchronization Computer - All 4 ultralight in wing have it, +2 attack rolls, +4 leader Defense, +1 Wingman defense
+PL7 Autosensor Sweep System - Operate Sensors 1/Round free action, system has Computer Use 8.
+PL7 Dual Purpose Sensor Package - Fit two sensor systems of the previous eras into one
+PL7 Class IV Sensor Array
+PL7 Class V Sensor Array - +2 Init
+PL7 Improved Targetting System - +3/+4/+5 on targetting bonuses
+PL8 Class VI Sensor Array
+PL8 Class VII Sensor Array - +2 Init
+PL8 Achilles Targetting Software - +1 all weapons crit threat range, does not take up sensor slot
+PL8 Targetting System, Advanced - +5/+6/+7 on targetting bonuses
+PL9 Advanced Dual Purpose Sensor Package - Fit two sensor systems of previous eras into one DC: 35
+PL9 Class VIII Sensor Array
+PL9 Class IX Sensor Array - +2 Init
+
+Comms
+PL5 Radio Transciever - omnidirectional, speed of light
+PL6 Laser Transciever - unidirectional, slow even within system, 8AU/hour
+PL7 Drivesat Comm Array - 5 Light Years per hour, 50 light year range, unidirectional
+PL7 Mass Transciever - No lag in star system, 1000 AU range, omnidirectional
+PL8 Drive Transciever - 5 Light Years/hour, 50 light year range, omnidirectional
+PL8 Holo Transciever - Send holo images through universe, but ansible is better, unidirectional
+PL8 Comm Package - Combines Mass Transciever, Laser Transciever, and Radio Transciever. Exploration.  DC: 28
+PL9 Ansible - omnidirectional, no lag anywhere, frequency based
+
+Special Systems
+PL5 Dedicated Passenger Hold - -50% cargo, x4 passengers
+PL5 Med Station - treat up to 6 med. patients, +2 Treat Injury checks.
+PL5 Brig - Hold 2 medium sized creatures.  PL6 version has neural scrambler.
+PL5 Luxury Accomodations - Turns it into a beautiful ship.  Cosmetic only, no in game effect.
+PL5 Cargo Crane - Cosmetic
+PL6 Docking Tube - Allows two starships to dock
+PL6 Heavy Load Body - Cargo +50% or Defense Systems +1 and Weapons Systems +2 (Weapons: +10% current HD for weaponry)
+PL6 Combat Wings - 2/4 wings, +1 weapon for each wing (+1AP/size)
+PL6 Atmospheric Streamlining - +2 Pilot checks when in atmosphere, Ultralight/Light only
+PL6 Improved Maneuvering Foils - +4 equipment bonus on pilot checks
+PL6 Mecha Maintenance Bay - +5 on craft/repair mecha checks, 8 med., 4 large, 2 huge, (-250 tons) 1 garg/col Heavy only (-500 tons)
+PL6 Vehicle Garage - 6 med/3 large/1 huge vehicle, +5 on repair/craft checks related to vehicles. (-250 tons)
+PL6 Carrier System - A Carrier can carry double its normal complement of fighters. (AP/2) 
+PL7 Link System - Allows a ship to pair with a few other ships and move as one.  Base ship: Medium+, Link ships: Light
+PL7 Cargo Manipulators - Load/Unload in half the time
+PL7 Advanced Bomb Bay - For each 20 tons devoted to it, +1 missile/mine system. +2 attack on weapons from bomb bay. (+1 AP for each 20 tons devoted, but only for missiles/mines)
+PL7 Concealed Cargo Hold - 25% cargo is concealed, Search/Computer use check vs DC25 to find, max 50% concealed
+PL7 Holo Suite - Cosmetic/RP only
+PL7 Pre-Fabricated Monitoring Station - Takes up 1,000 tons cargo, 1 month special station
+PL8 Gene Therapy Lab - +6 fort bonus on particular gene therapy, +2 on all others
+PL8 Starship Psicore - Lotsa Psi related stuff
+PL8 Advanced Carrier System - A Carrier can carry triple its normal complement of fighters. (AP/3)
+PL8 Biomechanical Subsystems - +2 on all attack rolls/saves, 1d4 HP healed each round automatically
+PL8 Swarm System - 4d20 as 'core' ship.  Remaining d20's represent drones.  Reconfiguration of individual drones 10/hr, allows reconfiguration between 4 subsystem modes (sensor, comms, special systems, defensive categories).  May have 3 modes active; more with future 'upgrades'.
+PL6 Fabricator System - -50% cargo, ability to repair other starships.  Repair 2d20/hour with appropriate supplies.
+PL7 Harvester System - -25% cargo, 2 automated drone ships capable of harvesting resources for refinement and upgrade of ships and structures.  1d10 worth of supplies per hour of harvesting for repair, weapon/defensive system upgrades 3x cost and time.
