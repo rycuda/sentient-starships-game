@@ -21,7 +21,7 @@ Pilot’s Class Bonus:  		| Grapple Modifier:
 Pilot’s Dex Modifier:  		| Base Purchase DC: 60
 Gunner’s Attack Bonus:  	| Restriction: Restricted (+2)
 
-##Customise Ship
+## Customise Ship
 
 **Determine engines, shielding, armor, etc. Pick 2-4 special systems if desired**
 
@@ -95,8 +95,8 @@ Int | 16 | +3 |
 Wis | 15 | +2 |
 Cha | 11 | 0 |
 
-base class
-----
+### base class
+
 - The Smart Hero
  - Lv1 Savant (Repair)
  - Skills: 48
@@ -107,20 +107,25 @@ base class
    - Search 4
    - Computer Use 4
    - Pilot 4
-   - Knowledge (Physical Sciences) 4
+   - Knowledge (Physical Sciences) 1
+   - Knowledge (Planetary Sciences) 1
+   - Knowledge (Technology) 1
+   - Knowledge (Construction) 1 
    - Craft (Mechanical) 4
    - Craft (Structural) 4
    - Craft (Electrical) 4
    - Craft (Chemical) 4
 
-Databanks
----
+### Databanks
+**3 base + 1 from flaws**
+
   - Physical Science
   - Construction
   - Technology
+  - Planetary Science
 
-Ship Description
-----
+## Ship Description
+
 
 **Have idea of your ship structure appearance and abilities.  Feel free to describe in 1-2 paragraphs!**
 
