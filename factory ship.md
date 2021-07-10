@@ -10,16 +10,16 @@ Bulk freighters usually carry cargo in bulk containers, and carry out regular ru
 || |
 --|--
 | Type: Mediumweight |Size: Colossal (–8 size) |
-| Subtype: Bulk freighter |Tactical Speed: 3,500 ft. (7 sq.) |
-| Defense:  			| Length: 800 ft. |
-| Flat-footed Defense: 5 		| Weight: 32,000 tons |
-Autopilot Defense:  		|Targeting System Bonus: 
-Hardness: 40 			| Crew: 8 (trained +4)
-Hit Dice: 125d20 () 		| Passenger Capacity: 8
-Initiative Modifier:  		| Cargo Capacity: 7,500 tons
-Pilot’s Class Bonus:  		| Grapple Modifier: 
-Pilot’s Dex Modifier:  		| Base Purchase DC: 60
-Gunner’s Attack Bonus:  	| Restriction: Restricted (+2)
+| Subtype: Bulk freighter	| Tactical Speed: 3,500 ft. (7 sq.) |
+| Defense: 			| Length: 800 ft. |
+| Flat-footed Defense: 5 	| Weight: 32,000 tons |
+| Autopilot Defense: 		| Targeting System Bonus:
+| Hardness: 40			| Crew: 8 (trained +4)
+| Hit Dice: 125d20 ()		| Passenger Capacity: 8
+| Initiative Modifier:	 	| Cargo Capacity: 7,500 tons
+| Pilot’s Class Bonus:	 	| Grapple Modifier:
+| Pilot’s Dex Modifier: 	| Base Purchase DC: 60
+| Gunner’s Attack Bonus: 	| Restriction: Restricted (+2)
 
 ## Customise Ship
 
@@ -102,22 +102,22 @@ Cha | 11 | 0 |
 - The Smart Hero
  - Lv1 Savant (Repair)
  - Skills: 48
-   - Disable Device 4
-   - Navigate 4
-   - Repair 4
-   - Research 4
-   - Search 4
-   - Computer Use 4
-   - Pilot 4
-   - Knowledge (Physical Sciences) 1
-   - Knowledge (Planetary Sciences) 1
-   - Knowledge (Technology) 1
-   - Knowledge (Construction) 1 
-   - Craft (Mechanical) 4
-   - Craft (Structural) 4
-   - Craft (Electrical) 4
-   - Craft (Chemical) 2
-   - Craft (Pharmaceutical) 2
+   | Skill | Linked Stat | Ranks | Bonus
+   -------|---|---|---
+   | Disable Device | Int | 4 | +3
+   | Navigate | Int | 4 | +3
+   | Repair | Int | 4 | +3
+   | Research | Int | 4 | +3
+   | Search | Int | 4 | +3
+   | Computer Use | Int | 4 | +3
+   | Pilot | Dex | 2 | +1
+   | Knowledge (Physical Sciences) | Int | 2 | +3
+   | Knowledge (Technology) | Int | 2 | +3
+   | Craft (Mechanical) | Int | 4 | +3
+   | Craft (Structural) | Int | 4 | +3
+   | Craft (Electrical) | Int | 4 | +3
+   | Craft (Chemical) | Int | 2 | +3
+   | Craft (Pharmaceutical) | Int | 2 | +3
 
 ### Databanks
 **3 base + 1 from flaws**
