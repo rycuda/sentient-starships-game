@@ -44,7 +44,9 @@ Neutronite (Hardness 40, 1/4 weight of ship)
  
 ### Sensors
 - Class VI sensor array, 
-- Combined sensors (Proximity Sensors | Targetting Sensors)
+- Combined sensors 
+  - Proximity Sensors
+  - Targetting Sensors
 
 ### Communications 
 
@@ -74,9 +76,9 @@ The device instantly feeds the mined materials directly into a designated cargoh
 **(if desired 2 max)**
   - Flies like a brick  [homebrew]
     - (-500' speed -2 to piloting in atmosphere)
-  - Sheltered [source|https://www.d20pfsrd.com/traits/drawbacks/sheltered/]
+  - Sheltered [source](https://www.d20pfsrd.com/traits/drawbacks/sheltered/)
     - (Whenever you have less than half your maximum hit points, you are shaken.) 
-  - Overprotective [source|https://www.d20pfsrd.com/traits/drawbacks/overprotective/]
+  - Overprotective [source](https://www.d20pfsrd.com/traits/drawbacks/overprotective/)
     - If one of your allies should fall unconscious from hit point damage, you take a –2 penalty on attack rolls and skill checks as long as you are farther than 10 feet away from your fallen ally.
 
 ## Basic character stats 
