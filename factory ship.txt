@@ -33,22 +33,23 @@ Dex 12
 * Determine engines, shielding, armor, etc.
 * Pick 2-4 special systems if desired
  - Engines: Particle Impulse Engine, thrusters
- - Armor: Neutronite (Hardness 40, 1/4 weight of ship) 
- - Defense Systems: 
+ - Armor: 
+   - Neutronite (Hardness 40, 1/4 weight of ship) 
+ - Defense Systems:  (5 base, 1 extra from flaws)
    - Sub-Surface Armored Plating, (Damage that ignored hardness is halved)
-   - improved damage control (4d10), 
+   - Improved damage control (4d10), 
    - point-defense system, 
    - Medium fortification, (75% chance to negate criticals)
    - Repair Drones (damage control as a free action)
-   - Autopilot 
+   - Improved Autopilot 
  - Sensors: 
    - Class VI sensor array, 
    - Combined sensors (Proximity Sensors | Targetting Sensors)
  - Communications: 
    - Mass transceiver
    - Radio transceiver
- - Weapons: 
-   - Mining Ripper(PJR301 pg4)
+ - Weapons: 5 total 
+   - Mining Ripper(PJR301 pg4) (Costs 3 slots)
    - Needle driver
    - Needle driver
  - Grappling Systems: 
@@ -59,8 +60,8 @@ Dex 12
    - Heavy Load Body
 
 
-* Pick flaws (if desired)
-Flies like a brick -500' speed -2 to piloting in atmosphere
+* Pick flaws (if desired 2 max)
+Flies like a brick (-500' speed -2 to piloting in atmosphere) [homebrew]
 Sheltered (Whenever you have less than half your maximum hit points, you are shaken.) [https://www.d20pfsrd.com/traits/drawbacks/sheltered/]
 Overprotective (If one of your allies should fall unconscious from hit point damage, you take a –2 penalty on attack rolls and skill checks as long as you are farther than 10 feet away from your fallen ally.) [https://www.d20pfsrd.com/traits/drawbacks/overprotective/]
 
