@@ -116,7 +116,8 @@ Cha | 11 | 0 |
    - Craft (Mechanical) 4
    - Craft (Structural) 4
    - Craft (Electrical) 4
-   - Craft (Chemical) 4
+   - Craft (Chemical) 2
+   - Craft (Pharmaceutical) 2
 
 ### Databanks
 **3 base + 1 from flaws**
