@@ -1,4 +1,4 @@
-# 'quacks magellanic' - factory ship
+# 'unconditional acceptance' - factory ship
 
 ## Base Ship
 
