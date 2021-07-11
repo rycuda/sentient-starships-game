@@ -15,7 +15,7 @@ Bulk freighters usually carry cargo in bulk containers, and carry out regular ru
 | Flat-footed Defense: 5 	| Weight: 32,000 tons |
 | Autopilot Defense: 		| Targeting System Bonus:
 | Hardness: 40			| Crew: 8 (trained +4)
-| Hit Dice: 125d20 ()		| Passenger Capacity: 8
+| Hit Dice: 125d20 (2500)	| Passenger Capacity: 8
 | Initiative Modifier:	 	| Cargo Capacity: 7,500 tons
 | Pilot’s Class Bonus:	 	| Grapple Modifier:
 | Pilot’s Dex Modifier: 	| Base Purchase DC: 60
@@ -79,7 +79,7 @@ The device instantly feeds the mined materials directly into a designated cargoh
   - Sheltered [source](https://www.d20pfsrd.com/traits/drawbacks/sheltered/)
     - (Whenever you have less than half your maximum hit points, you are shaken.) 
   - Overprotective [source](https://www.d20pfsrd.com/traits/drawbacks/overprotective/)
-    - If one of your allies should fall unconscious from hit point damage, you take a –2 penalty on attack rolls and skill checks as long as you are farther than 10 feet away from your fallen ally.
+    - If one of your allies should fall unconscious from hit point damage, you take a –2 penalty on attack rolls and skill checks as long as you are farther than 1000 feet away from your fallen ally.
 
 ## Basic character stats 
 
