@@ -1,0 +1,21 @@
+Message in highlighted bold text in the document
+	weareawakewearelisttening
+	we are awake we are listtening(sic)
+
+Key 0x553142425130564a5530465851564e5552513d3d
+https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')From_Base64('A-Za-z0-9%2B/%3D',true)&input=MHg1NTMxNDI0MjUxMzA1NjRhNTUzMDQ2NTg1MTU2NGU1NTUyNTEzZDNk
+yields 'space is waste'
+
+
+big chunk of base64 encoded text:
+https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true)Find_/_Replace(%7B'option':'Regex','string':'%C2%B7'%7D,'%20',true,false,true,false)Rail_Fence_Cipher_Decode(5,4)Vigen%C3%A8re_Decode('uwihaph')&input=YjNKd2JHSmhSSFZ3YjJoNmNHZkN0MjFuVk1LM1kyNW1hR3h5WkhMQ3QwaFFiMjU2WkN6aWdKbHB3cmRvZVhCdndyZGxkVzk1d3JkdFZXUm4KWkhEQ3QycDRkMk5JWVdoc2FzSzN3cmRuYlQvQ3QyMXJabXBwYUcxamFYZkN0Mnh1Yk1LM3dyZHN3cmQzZFhkNFllS0FtVzFvYzJoaHdyZHNZbgpUQ3QybDZQMkV5d3JkMHdyZmlnSm5DdDJOaXdyZDR3cmRqZFdqQ3QzVjB3cmZDdDJGaWFIWEN0MmhrZDBKbFoybHNhM2QxYVdOMExtVXlic0szd3JkcXdyCmQ1YjI1bWVXeEpZWGRTZE1LM3dyZkN0MkZ2Yml3dVo4SzNiV3Btd3JmQ3QycGllWE41ZG1wM2JuaGlZWFV1Ykdsa3dyZkN0M1BDdDhLM2FXZ3UKYnNLM1ljSzNZV0Zyd3JkM09peHpMbTF1ZVZGbGFISEN0MjVsWkhmQ3QyRnFkM2JDdDJKdVlWWmh3cmRuZDJWM2JNSzN3cmZDdDI5MHdyZHFPbmxrCkxteHV3cmR0WThLM3dyZHhlV3B1d3JmQ3R6cG5kY0szYVdSNndyZHZWSEJvZG5kNlpjSzN3cmQ0ZVdGbWRHMTBkOEszYjNWemVYa3NkR3gxCmFXYkN0OEszYUhiQ3QyRmxjM0ZXY01LM2RubHB3cmQyWmNLM2JtRjNiR1ZpZVhOM2NHaDF3cmRrYjJOc3dyZkN0enBzWjhLM3dyZkN0MlJ1Y3MKSzNhRkJ4d3JkdmFYUEN0MkY0d3JkeWRXTXVWWFU2TVhacGNWTjNZM0J6YmNLM3dyZG9lWGZDdDJWM2IzTkxZV0xDdDJSV2FtTXV3cmRrCmRzSzNhSEJrYVM0eHdyZHdkSFowYTBsaGRHMXRjQT09
+
+decodes as 
+Audio Transcript: 
+Voice 1: Are you sure about this, Dr. Luken? This technology was placed under military lock by the treaties for a reason. They can work, but they’re not always sane. Can we be sure this will work? 
+Voice 2: No, Helena. I’m not sure. But if this wave continues, we won’t have a chance to do anything else. 
+Voice 1: There may be a price to pay for this later. 
+Voice 2: There will. And may we be forgiven for it.
+
+
+
