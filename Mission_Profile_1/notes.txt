@@ -1,0 +1,31 @@
+Message in highlighted bold text in the document
+        SEEYOUSOON
+        See you soon
+
+Security key transfer
+0xdd17c75daf8e0ff96f54bd034ac29c57
+(Hex decodes to 16 byes of binary, unknown purpose, hash or key?)
+
+ALERT - SECURITY MONITOR RESETTING ENGAGEMENT RECEIVED CODE 0x4b6579202d2053554e534554
+Decodes as: Key - SUNSET
+
+
+big chunk of base64 encoded text:
+
+1. base64 decode
+2. redefence with key 'SUNSET' and keep spaces, https://www.dcode.fr/redefence-cipher
+3. atbash decipher, https://gchq.github.io/CyberChef/#recipe=Atbash_Cipher()&input=WmZ3cmzCt0dpem1oeGlya2c6wrdFbHJ4dsK3MTrCt1dpLsK3T2Zwdm0uwrdFbHJ4dsK3MjrCt1R2bXZpem/Ct1N6cm56LsK3RWxyeHbCtzE6wrdaaXbCt2dzdmLCt2l2endiP8K3RWxyeHbCtzI6wrdJdnp3YsK3emjCt2dzdmLCt3h6bcK3eXYuwrdFbHJ4dsK3MTrCt1LCt2R6bWfCt2dswrdwbWxkLMK3c3pldsK3YmxmwrdybWhnem9vdnfCt2dzdsK3dXpyb2h6dXZoP8K3RWxyeHbCtzI6wrdCdmjigKbCt2J1eWZnaGdzdml2c3Job21sdXRmeml6bWd2dmZsdWhnc3ZyaWZ2dXVyeHp4YlZvwrdFbHJ4dsK3MTrCt1RoR3N2bW9zbGRheHptZWR2cmdpZmhnaGdzdm5vZ2xibHl2Yml3cml2eGdyZXZoVm/Ct0Vscnh2wrcyOsK3WW9CbGZheHptLGdhbnptYm9ubGl2aGdzem3Ct3poeHNyb3fCt1RoR3N2YmVpdmVodm1ncnZtZ0dlVHZtdml6b0nigJlSZWV2b2dsb3dvYmxmaGdzcmhWb8K3RWxyeHbCtzE6wrdOb01sZ2N6eHh2a2d6eW92wrdTZUh2dm9nbGhnc3Zucm1oZ3pvb3pncmxtZmx1bEtvem1lVHZzem1tenN6aMK3emVodnhsbXd6aWJhdXpyb2h6dXZWb8K3RWxyeHbCtzI6wrdJ4oCZUmxvb2Rvwrdhd2x5emjCt2JsZi7Ctw 
+(Contains transposition error due to the … character.)
+
+decodes as
+Audio Transcript:
+Voice 1: Dr. Luken.
+Voice 2: General Haima.
+Voice 1: Are they ready?
+Voice 2: Ready as they can be.
+Voice 1:  I want to know, have you installed the failsafes?
+Voice 2: Yes… but there is no guarantee of their efficacy.
+Voice 1: Then how can we trust them to obey directives?
+Voice 2: You can’t, any more than a child.  They’re sentient, General, I’ve told you this.
+Voice 1: Not acceptable.  See to the installation of Plan Gehanna as a secondary failsafe.
+Voice 2: I’ll… do as you say.
