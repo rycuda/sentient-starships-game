@@ -5,6 +5,7 @@ Message in highlighted bold text in the document
 Security key transfer
 0xdd17c75daf8e0ff96f54bd034ac29c57
 (Hex decodes to 16 byes of binary, unknown purpose, hash or key?)
+Likely hash type would be MD5, but no matches found when checked against 15-billion non-salted hashes.
 
 ALERT - SECURITY MONITOR RESETTING ENGAGEMENT RECEIVED CODE 0x4b6579202d2053554e534554
 Decodes as: Key - SUNSET

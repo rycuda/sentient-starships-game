@@ -1,0 +1,152 @@
+Project_Sunset_-_Mission_Profile_FINAL.pdf decoding
+---
+
+Message in highlighted bold text in the briefing: WEAREHUNGRY
+We are hungry
+
+Access code provided by fleet command: Valor
+
+Database 2 unlock:
+0x4b657920476568616e6e612d4c616d626461
+Decodes from HEX to: 
+Key Gehanna-Lambda
+
+
+RECEIVED CODE 01010010 01101101 01101100 01111010 01011001 00110010 01101000 01101100
+01001001 01000101 01010110 01110101 01011001 01010111 01001010 01110011 01011010 01010001
+00111101 00111101. ENABLING FISCHE INTERFACE. WARNING, FISCHE INTERFACE IS ONLY BY
+AUTHORIZED USER ONLY. PREPARE CREDENTIAL AUTHORIZATION.
+Binary decodes to: RmlzY2hlIEVuYWJsZQ==
+Base64 decodes to: Fische Enable
+
+
+Viral fragment:
+FRAGMENT: JKZKFYIUDEREHPEWRXSQPZQFULZLRUNMATHMOZPMUYLHRMDYNPOQPE
+RESULT: ENIGMA
+
+Encoded with Enigma cipher, https://www.dcode.fr/enigma-machine-cipher
+Wermacht/Luftwaffe 3 Rotors
+Rotors: I, II, III
+Reflector mount: B
+Initial positions of rotors (1 per rotor): A, B, C
+Positions of alphabet ring (1 per rotor): A, A, A
+Plug board configuration: A-B, C-D
+
+Decodes as: DATAARCHIVALSTATIONHOLDSTHEKEYTORELEASEBEWARETHEHUNTER
+DATA ARCHIVAL STATION HOLDS THE KEY TO RELEASE BEWARE THE HUNTER
+
+
+
+RESETTING ENGAGEMENT RECEIVED CODE
+0x556b464a54455a46546b4e4649444d6756453951
+Hex encoded results in base64.
+base64: UkFJTEZFTkNFIDMgVE9Q
+plain: RAILFENCE 3 TOP
+Hint for decoding Message Fragment.
+
+
+Message Fragment:
+VdbOR4dYdZZbIeLQaVbcdVYMVccaYabIIbYSbbUaddZIaYbZYbIbcdbIcZbZIbabbIbbbYbYYLV
+cYIdccbabZZIYbebdYaIIZYaccYbIdIYgIcbIIbZIZYagIbcIddIZIIbbYbZbZIIbdbdaZacbZZabIbYdbIY
+YaabdIbcbUaddZdbacacdaLaZbYbZcbaUZZZcZIZZYbIdYdIZZbbad·SWIG4CO3ligGuoZCh3pm
+0SHWhmhGlSgUKXkWgHhnjmwDKmp2gTgGpypy0GgXkWgGnGmElmyWgGpWg2gHvmjCTW
+zXuEuXpWg2zX2Xp2zHo3g2uGlmlGhykXlGwWsHo3nCpiz2lHhmvShmg2h3py3XzigGlmgXlGv
+W0yhy0y0GgGuy0XtH0WpG0ShmgmhmsX5GmHoStXyWlyl3l2hG5GpmuHoXiJzGhHlmkHvHln
+pW0GpmgXgXiJzHln1mkGuGgGlGpWkGmGvW1mjXp2gmpHySgFlGhmvChGvy0GzSzGwy0ys
+W2S3Xo30G1Gg2uHvCgEgWgX0GyXpmgGlHlGh2g2gHvmjCIW0XgGgWuXvi0Gg20W0WuC0
+G12gXg2sGh3lypi0Gg2pWjSkXhntW0GySyW13hnuCCXgm0GyHoSkXpC53g2vyKSNE·ANNV
+BRA9CBRFBh5tEwV8JNlo9UohBBUV899dVwFE4JVB5QlRwJJR5NcVlNhBZ9QRVBB1JRBQh
+RBlAhUJRJBBBU9BJNJlBQllR9RBRNBBlxdVdTlhBVRNR5xUMTlZRVl8hZx9N1lR4FV4dN5Bx
+BVBlBBFBRVZw9J4k0V9pchJVUYJVB5I89RBUlF9B9gk9VVBBUN5BBR5FBxRQBQVVRBZBU
+54UTRG
+
+Does not appear base64 encoded.
+
+Remove extra enters (necessary for rail fence):
+VdbOR4dYdZZbIeLQaVbcdVYMVccaYabIIbYSbbUaddZIaYbZYbIbcdbIcZbZIbabbIbbbYbYYLVcYIdccbabZZIYbebdYaIIZYaccYbIdIYgIcbIIbZIZYagIbcIddIZIIbbYbZbZIIbdbdaZacbZZabIbYdbIYYaabdIbcbUaddZdbacacdaLaZbYbZcbaUZZZcZIZZYbIdYdIZZbbad·SWIG4CO3ligGuoZCh3pm0SHWhmhGlSgUKXkWgHhnjmwDKmp2gTgGpypy0GgXkWgGnGmElmyWgGpWg2gHvmjCTWzXuEuXpWg2zX2Xp2zHo3g2uGlmlGhykXlGwWsHo3nCpiz2lHhmvShmg2h3py3XzigGlmgXlGvW0yhy0y0GgGuy0XtH0WpG0ShmgmhmsX5GmHoStXyWlyl3l2hG5GpmuHoXiJzGhHlmkHvHlnpW0GpmgXgXiJzHln1mkGuGgGlGpWkGmGvW1mjXp2gmpHySgFlGhmvChGvy0GzSzGwy0ysW2S3Xo30G1Gg2uHvCgEgWgX0GyXpmgGlHlGh2g2gHvmjCIW0XgGgWuXvi0Gg20W0WuC0G12gXg2sGh3lypi0Gg2pWjSkXhntW0GySyW13hnuCCXgm0GyHoSkXpC53g2vyKSNE·ANNVBRA9CBRFBh5tEwV8JNlo9UohBBUV899dVwFE4JVB5QlRwJJR5NcVlNhBZ9QRVBB1JRBQhRBlAhUJRJBBBU9BJNJlBQllR9RBRNBBlxdVdTlhBVRNR5xUMTlZRVl8hZx9N1lR4FV4dN5BxBVBlBBFBRVZw9J4k0V9pchJVUYJVB5I89RBUlF9B9gk9VVBBUN5BBR5FBxRQBQVVRBZBU54UTRG
+
+Rail Fence with Key 3, offset 0 returns:
+VGV4dCBOb3RlOiAgRG9u4oCZdCBhY3RpdmF0ZSBHZWhhbm5hIGtleSEgLUwKQXVkaW8gVHJhbnNjcmlwdDoKVm9pY2UgMTogVGhpcyBpcyB0aGUgYXVkaW8gbG9nIG9mIEdlbmVyYWwgSGFpbWEgb24gUHJvamVjdCBTdW5zZXQuIEluaXRpYWwgb2JzZXJ2YXRpb25zIHNob3cgc2VudGllbmNlIGhhcyBkZXZlbG9wZWQsIHRob3VnaCBpbiBzb21lIHJhbmRvbSBhbmQgY2hhb3RpYyB3YXlzLiAgVGhlcmUgYXJlIGRvdWJ0cyBhcyB0byB0aGUgbG9uZyB0ZXJtIHN0YWJpbGl0eSBhbmQgdmlhYmlsaXR5IG9mIHRoZSBtYXRyaWNlcyBlc3BlY2lhbGx5IGdpdmVuIHdoYXTigJlzIGhhcHBlbmVkIHRvIHNlbnRpZW50IGxpZmUgYXMgaXTigJlzIHZlbnR1cmVkIGludG8gdGhlIGZpZWxkIG9mIGNvbW11bmljYXRpb24gZmFpbHVyZS4gIFdlIGNhbm5vdCBhbGxvdyB0aGVzZSBzaGlwcyB0byBsZWF2ZSB3aXRob3V0IGZ1bGwgY29udHJvbC4gIEkgYW0gYXV0aG9yaXppbmcgdGhlIHJlbGVhc2Ugb2YgUHJvamVjdCBIdW50ZXIgdG8gbW9uaXRvciB0aGUgc2l0dWF0aW9uLCB0aG91Z2ggbXkgY29sbGVhZ3VlcyBpbiB0aGUgU2NpZW5jZSBkZXBhcnRtZW50IGFyZSByZWx1Y3RhbnQuICBCdXQgYmV0dGVyIHRoZSBkZXZpbCB5b3Uga25vdy4K·SUNSET·WARNING
+
+Base64 decode on the section without SUNSET WARNING returns:
+Text Note:  Don’t activate Gehanna key! -L
+Audio Transcript:
+Voice 1: This is the audio log of General Haima on Project Sunset. Initial observations show sentience has developed, though in some random and chaotic ways.  There are doubts as to the long term stability and viability of the matrices especially given what’s happened to sentient life as it’s ventured into the field of communication failure.  We cannot allow these ships to leave without full control.  I am authorizing the release of Project Hunter to monitor the situation, though my colleagues in the Science department are reluctant.  But better the devil you know.
+
+
+
+recording_1.wav decoding (embedded as sidechannel on the background of voice comms)
+---
+
+The following files are included because original had some issues after being shifted only to right channel. They correspond to the first and last blocks on the right audio channel and are of cleaner audio quality.
+
+recording_1_right_clean_first.wav
+recording_1_right_clean_last.wav
+
+Morse is also only on right channel.
+Morse begins 00:10, ends 02:59.
+
+Left channel contains a separate signal.
+
+
+[AUDIO decode left channel signal 1] 
+Left audio channel was identified as a starmap image encoded with wefax (weather fax) encoding. SSTV decoders may also gain some traction. The signal has longer than 576 pixel lines (wefax standard) at 800px and decoders may have overruns per line and result in visible interlacing where the lines cross into the next ones. Signal was isolated and output saved after cleaning up as decoded_files/001-Starmap-A-clean.png.
+
+
+[Morse code on left channel, signal 2 - decodes as]:
+T RXWSRVW VWDWLRQ D SLUDWH RXWSRVW M PLQLQJ VWDWLRQ S RUELWDO JUDYHBDUG P ZOPWFHYK I TPSPAHYF VYIPAHS O SBUHY KVTLK JPAF K TPUPUN ZAHAPVU U TPUPUN ZAHAPVU V
+MKTWBGZ HNMIHLM Y LVBXGVX HNMIHLM E FTMXKBTEL LMHKTZX D FBEBMTKR LMTMBHG H LVBXGMBYBV HNMIHLM A JCZOHWZSG VOFJSGHWBU S AOHSFWOZG GHCFOUS U ROHO OFQVWJSG 
+
+
+The morse code message is encrypted with Vigenere
+
+Two partial keys were possible to retrieve using https://www.boxentriq.com/code-breaking/vigenere-cipher
+Partial key1: hhh
+Partial key2: ttt
+
+The rest of the key was solved by hand and experimentation. Two most likely candidates for keys were decided, one was eliminated by map marker letters repeating.
+
+complete key: dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttoooooooooooooooooooooooooooooooooooooooooooooooooo
+
+Vigenere decodes to plaintext as:
+Q OUTPOST STATION A PIRATE OUTPOST J MINING STATION P ORBITAL GRAVEYARD M SHIPYARD B MILITARY ORBITAL H LUNAR DOMED CITY D MINING STATION N MINING STATION O
+FRADING OUTPOST F SCIENCE OUTPOST L MATERIALS STORAGE K MILITARY STATION O SCIENTIFIC OUTPOST H VOLATILES HARVESTING E MATERIALS STORAGE G DATA ARCHIVES
+
+A-Q refers to marked points on the decoded map.
+
+A PIRATE OUTPOST
+B MILITARY ORBITAL
+C TRADING OUTPOST
+D MINING STATION
+E MATERIALS STORAGE
+F SCIENCE OUTPOST
+G DATA ARCHIVES 
+H LUNAR DOMED CITY
+I SHIPYARD
+J MINING STATION
+K MILITARY STATION
+L MATERIALS STORAGE
+M VOLATILES HARVESTING
+N MINING STATION
+O SCIENTIFIC OUTPOST
+P ORBITAL GRAVEYARD
+Q OUTPOST STATION 
+
+Both the wefax and morse decoding is combined in decoded_file/002-SassyStarmaps-A.png for navigational purposes.
+
+
+Decoding recording_1_right_clean_first.wav and recording_1_right_clean_last.wav
+---
+
+Spectrogram analysis suggests a bandwidth of at least 355Hz.
+
+Signal has a distinct preamble that calibrates the highest and lowest frequency of the signal.
+
+17 possible encodings were identified initially, narrowed down to 7 likely ones after comparing signal samples by ear. Signal matched to THOR encoding, with THOR-16 mode specifically. Thor uses upper sideband radio mode and and Incremental Frequency Keying (IFK) modulation.
+
+[AUDIO decode left channel digital signal 1 (recording_1_right_clean_first.wav)] 
+Decodes as: "Come find us, we have your answetu¿�" (Some corruption in decode)
+Reads as: "Come find us, we have your answers"
+
+[AUDIO decode left channel digital signal 3 (recording_1_right_clean_last.wav)] 
+Decodes as: "Beware your failsafes, they will destroy you, do not open the case"
