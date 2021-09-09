@@ -1,0 +1,5 @@
+Ping bursts contain telemetry information from ships. Solvable? Known to be irrelevant.
+Likely base64 encoded, could also be base58.
+
+128 bytes long when decoded from base64, potentially block cipher?
+

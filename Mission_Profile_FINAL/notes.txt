@@ -132,6 +132,8 @@ O SCIENTIFIC OUTPOST
 P ORBITAL GRAVEYARD
 Q OUTPOST STATION 
 
+Items that weren't on the originally provided map were: Outpost Q, Pirate outpost A, Science outpost F, Military station K, Orbital shipyard P, and Materials storage E
+
 Both the wefax and morse decoding is combined in decoded_file/002-SassyStarmaps-A.png for navigational purposes.
 
 
