@@ -1,0 +1,161 @@
+Location: Lagrange point 4 station.
+
+
+Laser locks
+-----------
+
+1, 2, or no connections per side (up down left right), a value for each node (the lit sections), and no lines can cross. Only straight lines, no diagonals.
+
+Required laser lock to solve to enter station.
+Puzzle: Cargo_Hold_Unlock_Puzzle.png
+Solution provided in: Cargo_Hold_Unlock_Puzzle_solved.png
+
+Required laser lock to solve to gain access to probe ship.
+Puzzle: Information_Probe_Puzzle.png
+Solution provided in: Information_Probe_Puzzle_solved.png
+
+
+Data cube:
+----------
+
+PDF contains the following apparently base64 encoded and shifted message:
+
+pTlCtilEKXr2l3gSgG0Wh3wWvW0Ev2zygHgG1XzW0XzW0XsG1Gj2gilygGJylX03tWsGgmu2x3
+uSlilXyWvWlSiCgCuWgSlXjXvGzChno2gGlS0GvGoGgG3HhWlmnnv2gGyyxGkClChnsSTWgH
+uW1ygS03tGlGoGiGk2vmz2pWzWl3sWvSly1XmWtip3gGlChHPHp3v3pnvXzypTlGhC3GtC0W
+1GzyvXg2iGuG03uGu3hG13vWuHAmz2hClWvmuGiHtHkXgXpSy21HgWuWpHhngH0HkmlG2
+WkimWsG22Am2WvngGyWnG3ComYegGiywXAWlCzylCvnkn5Wj2u2sHzmvGhXsXjygiz3oWp
+Hkml20gpTgmp2gG0GpmsHsWuGyCgWoXgXgGoHjXlmoSzSkCgG12gWzGzihWmGg3zmoHj
+mhS09YMohbLBFILBtbIRBbYMVZbYhIcRQTe4kdIRZZa5BIYJBcZNRIZFBcIFNbbwldcw4baQY
+dIN1bYR5IYNVIYQxbZVBbYVBbI9hbINNac5MdbBRcZBUZbQBdcBBZdRFZclVcY49ddhUcYxM
+CblAOTJlYeBNdZBJZSMVZYRRIYxRIZB9bLBQadBFZaRAVeBJIbBBbdRlbIJVIZBRLQVRZY9Q
+bIRNcYBRZI9ZYI9RZdVwYI9BZIJBba4hIdVlYckJYcVAVI9VIbwVddlBYLBJIdBBIcJIIZB5IaRcTa
+QFZZ59dbBUZZBBaclVLS9ZcdhBYI5BZIhJIYsJbbQFdb15Ya9BaZQhIcNBaa5RIZBRLcB9ZaQ
+VZZQFYLAhcbVUaIlhYZBdcIRBbIRRbcRlbbIJYcVBZZcVcc49YMohbaFZaZBBYZVJaZBBcY5B
+daUVccBRIaBAVcUngIFBbblBabJlYdhUIbJNcbUJdbJZbaxlIdVKpbQVcb5JaZ4dId5NbcFlZaUng
+IRBdIdxIZZQdaIJbeBBZb5Fabk8cdF9cY5xbIRBbbQYYdJBaIdxIdUZcaVBZZw9aLA5bd5VeaUF
+ebVKmYVVZdNNbcVMdbQ9aax5bIFBbZBRZYUCZZKwZclBZZDhcZJKmY5JcdBlLbBJYZBNbc
+k5IcRJIb1lYb5FZb59IdJVIc9hddhZcdMVbYMFac4kZcBlLbJRYY5hbIdxIc4hbZFNILo9YMokbdU
+hcbc4dIV5IIlRcdVQIIBBZaxtbdhRdLBQcdxRZSMUZZJUbI9RacJVddJZLb9RYSBBbew5IdBwYI
+FNcYlMbe9FII1BZLAVcYtBbaFgcYR5LbQBbIlBYclBYZBFLm2ggEGvJGEyMWigyi3pgHWggGE
+lhHm2gE2zyWWg0yHllCmq0HGy0SnlJGnyg3GtgWGng2GlvWmjp2Gsr3HogWyztyyjzS3zmGW
+uvnW1l32llnmu0GmluCCpo3ChvWWgzGyjg2mgl2HvlXgWjSigp2WshHCv0HSBg2StlHG21XHo
+wmGthm2wwGXzliGl3XHpsS2whGmsvGGlkXig0HXg1Gm0p2mgwXXuyG3zmHSptyWkuSW0h
+XnggGGuzGXvgH2zziGl0GH3gmWzuyXh3XH1viGhpXHoHkE1pmGnsGCz0GC00GWnviGgzGi
+g3XiglSXlvCWulXGhgnShgGCjtW20uyG3gGHllCX0nHGuzWCh0G2gg3mygGWlgGyjy2Gk0GW
+l03mzoS30l3mghGimgHWguyiugm2sKm2gg2i00GWlpCXg0XWl0yngkHC0gm2spnHoziGlgUJzy
+S3grSGgp2WgyWCNlGGisGCtlHG0lGGhyeihgGyjzHWlgFGvkGn0pmy0gUJzvyWovWHylnGlg
+WG00yXwkHWrgG200WygkGW0oSW1g22uvCG5vWGhg3i0piXzgmWzgW30hGS0gmSkzuXgs
+WSzoGn0jH21g2y3sWHsuC3syXXggonlASGz0SWuiJmw0eSgkH2u0GCzkX3lzWmhgWHlpXG
+v1mXpzGCj0mGhp2Ho12XglHmvgHHggm3wgEmh0GCtlHWg5GmsvWH1gGShpnHzKm2ggEG
+hgGysgWGl2WG0zG2vyWHvl3S3sG3glHXohm2vkHSBg22uhG30mHXgvmCz2XCr3HXghS3yg
+WGvhGXlzH3pvX2g1GG0hSWtgmitly3gy2mhp2ChgS3lvSWgzSm20Gg=VUIxIRd4LNT4ddbFIF
+YQbNd9INZVIRcValbhblbJbRYBcBZNIFb9chblalIBbBbQdBcUcJbpZAZxIBaBdBIVYRcVbVbRL
+hZNe1dFeZYAIkb9c4YJIVIBc5Z5bQdldRcVLhaRcVZRZBbNZRUdblIBIBaRZUdAZweZdVYJZB
+bBdFc9dZbNI9aBagcVZdVBcFIRbRZJccdBdwcBdVVUVBIxdMZ5bkIBdVbNLhQlZQZUZwZBIFI
+BIFI5ZBbBd5IZINbBQlbNdBbhYlbNINdlawIlZ9b9bVdhbBcNYVVJdBTBbQaBINd9dBakZVYI4Jm
+VZlg9ewIVaBaRZRYRYNbRIBc1YRZQIlaMYVIVaBI4dcdRdBbVVUIVdBahZlINZNbBIcIRbhIBdV
+dVIMaBaBIQbJY5bJIBdYIleVRBcIcVbBSBd4Z9ao
+
+1. Find and replace \n to make the message more properly formatted since \n is not allowed in Base64.
+2. Then use Rail Fence cipher to decode with key 4 and offset 3.
+3. After this code the resulting Base64 string.
+
+https://gchq.github.io/CyberChef/#recipe=Find_/_Replace(%7B'option':'Regex','string':'%5C%5Cn'%7D,'',true,false,true,false)Rail_Fence_Cipher_Decode(4,3)From_Base64('A-Za-z0-9%2B/%3D',true)&input=cFRsQ3RpbEVLWHIybDNnU2dHMFdoM3dXdlcwRXYyenlnSGdHMVh6VzBYelcwWHNHMUdqMmdpbHlnR0p5bFgwM3RXc0dnbXUyeDMKdVNsaWxYeVd2V2xTaUNnQ3VXZ1NsWGpYdkd6Q2hubzJnR2xTMEd2R29HZ0czSGhXbG1ubnYyZ0d5eXhHa0NsQ2huc1NUV2dICnVXMXlnUzAzdEdsR29HaUdrMnZtejJwV3pXbDNzV3ZTbHkxWG1XdGlwM2dHbENoSFBIcDN2M3Budlh6eXBUbEdoQzNHdEMwVwoxR3p5dlhnMmlHdUcwM3VHdTNoRzEzdld1SEFtejJoQ2xXdm11R2lIdEhrWGdYcFN5MjFIZ1d1V3BIaG5nSDBIa21sRzIKV2tpbVdzRzIyQW0yV3ZuZ0d5V25HM0NvbVllZ0dpeXdYQVdsQ3p5bEN2bmtuNVdqMnUyc0h6bXZHaFhzWGp5Z2l6M29XcApIa21sMjBncFRnbXAyZ0cwR3Btc0hzV3VHeUNnV29YZ1hnR29IalhsbW9TelNrQ2dHMTJnV3pHemloV21HZzN6bW9IagptaFMwOVlNb2hiTEJGSUxCdGJJUkJiWU1WWmJZaEljUlFUZTRrZElSWlphNUJJWUpCY1pOUklaRkJjSUZOYmJ3bGRjdzRiYVFZCmRJTjFiWVI1SVlOVklZUXhiWlZCYllWQmJJOWhiSU5OYWM1TWRiQlJjWkJVWmJRQmRjQkJaZFJGWmNsVmNZNDlkZGhVY1l4TQpDYmxBT1RKbFllQk5kWkJKWlNNVlpZUlJJWXhSSVpCOWJMQlFhZEJGWmFSQVZlQkpJYkJCYmRSbGJJSlZJWkJSTFFWUlpZOVEKYklSTmNZQlJaSTlaWUk5UlpkVndZSTlCWklKQmJhNGhJZFZsWWNrSlljVkFWSTlWSWJ3VmRkbEJZTEJKSWRCQkljSklJWkI1SWFSY1RhClFGWlo1OWRiQlVaWkJCYWNsVkxTOVpjZGhCWUk1QlpJaEpJWXNKYmJRRmRiMTVZYTlCYVpRaEljTkJhYTVSSVpCUkxjQjlaYVEKVlpaUUZZTEFoY2JWVWFJbGhZWkJkY0lSQmJJUlJiY1JsYmJJSlljVkJaWmNWY2M0OVlNb2hiYUZaYVpCQllaVkphWkJCY1k1QgpkYVVWY2NCUklhQkFWY1VuZ0lGQmJibEJhYkpsWWRoVUliSk5jYlVKZGJKWmJheGxJZFZLcGJRVmNiNUphWjRkSWQ1TmJjRmxaYVVuZwpJUkJkSWR4SVpaUWRhSUpiZUJCWmI1RmFiazhjZEY5Y1k1eGJJUkJiYlFZWWRKQmFJZHhJZFVaY2FWQlpadzlhTEE1YmQ1VmVhVUYKZWJWS21ZVlZaZE5OYmNWTWRiUTlhYXg1YklGQmJaQlJaWVVDWlpLd1pjbEJaWkRoY1pKS21ZNUpjZEJsTGJCSllaQk5iYwprNUljUkpJYjFsWWI1RlpiNTlJZEpWSWM5aGRkaFpjZE1WYllNRmFjNGtaY0JsTGJKUllZNWhiSWR4SWM0aGJaRk5JTG85WU1va2JkVQpoY2JjNGRJVjVJSWxSY2RWUUlJQkJaYXh0YmRoUmRMQlFjZHhSWlNNVVpaSlViSTlSYWNKVmRkSlpMYjlSWVNCQmJldzVJZEJ3WUkKRk5jWWxNYmU5RklJMUJaTEFWY1l0QmJhRmdjWVI1TGJRQmJJbEJZY2xCWVpCRkxtMmdnRUd2SkdFeU1XaWd5aTNwZ0hXZ2dHRQpsaEhtMmdFMnp5V1dnMHlIbGxDbXEwSEd5MFNubEpHbnlnM0d0Z1dHbmcyR2x2V21qcDJHc3IzSG9nV3l6dHl5anpTM3ptR1cKdXZuVzFsMzJsbG5tdTBHbWx1Q0NwbzNDaHZXV2d6R3lqZzJtZ2wySHZsWGdXalNpZ3AyV3NoSEN2MEhTQmcyU3RsSEcyMVhIbwp3bUd0aG0yd3dHWHpsaUdsM1hIcHNTMndoR21zdkdHbGtYaWcwSFhnMUdtMHAybWd3WFh1eUczem1IU3B0eVdrdVNXMGgKWG5nZ0dHdXpHWHZnSDJ6emlHbDBHSDNnbVd6dXlYaDNYSDF2aUdocFhIb0hrRTFwbUduc0dDejBHQzAwR1dudmlHZ3pHaQpnM1hpZ2xTWGx2Q1d1bFhHaGduU2hnR0NqdFcyMHV5RzNnR0hsbENYMG5IR3V6V0NoMEcyZ2czbXlnR1dsZ0d5ankyR2swR1cKbDAzbXpvUzMwbDNtZ2hHaW1nSFdndXlpdWdtMnNLbTJnZzJpMDBHV2xwQ1hnMFhXbDB5bmdrSEMwZ20yc3BuSG96aUdsZ1VKenkKUzNnclNHZ3AyV2d5V0NObEdHaXNHQ3RsSEcwbEdHaHllaWhnR3lqekhXbGdGR3ZrR24wcG15MGdVSnp2eVdvdldIeWxuR2xnCldHMDB5WHdrSFdyZ0cyMDBXeWdrR1cwb1NXMWcyMnV2Q0c1dldHaGczaTBwaVh6Z21XemdXMzBoR1MwZ21Ta3p1WGdzCldTem9HbjBqSDIxZzJ5M3NXSHN1QzNzeVhYZ2dvbmxBU0d6MFNXdWlKbXcwZVNna0gydTBHQ3prWDNseldtaGdXSGxwWEcKdjFtWHB6R0NqMG1HaHAySG8xMlhnbEhtdmdISGdnbTN3Z0VtaDBHQ3RsSFdnNUdtc3ZXSDFnR1NocG5IekttMmdnRUcKaGdHeXNnV0dsMldHMHpHMnZ5V0h2bDNTM3NHM2dsSFhvaG0ydmtIU0JnMjJ1aEczMG1IWGd2bUN6MlhDcjNIWGdoUzN5ZwpXR3ZoR1hsekgzcHZYMmcxR0cwaFNXdGdtaXRseTNneTJtaHAyQ2hnUzNsdlNXZ3pTbTIwR2c9VlVJeElSZDRMTlQ0ZGRiRklGCllRYk5kOUlOWlZJUmNWYWxiaGJsYkpiUllCY0JaTklGYjljaGJsYWxJQmJCYlFkQmNVY0picFpBWnhJQmFCZEJJVllSY1ZiVmJSTApoWk5lMWRGZVpZQUlrYjljNFlKSVZJQmM1WjViUWRsZFJjVkxoYVJjVlpSWkJiTlpSVWRibElCSUJhUlpVZEFad2VaZFZZSlpCCmJCZEZjOWRaYk5JOWFCYWdjVlpkVkJjRklSYlJaSmNjZEJkd2NCZFZWVVZCSXhkTVo1YmtJQmRWYk5MaFFsWlFaVVp3WkJJRkkKQklGSTVaQmJCZDVJWklOYkJRbGJOZEJiaFlsYk5JTmRsYXdJbFo5YjliVmRoYkJjTllWVkpkQlRCYlFhQklOZDlkQmFrWlZZSTRKbQpWWmxnOWV3SVZhQmFSWlJZUllOYlJJQmMxWVJaUUlsYU1ZVklWYUJJNGRjZFJkQmJWVlVJVmRCYWhabElOWk5iQkljSVJiaElCZFYKZFZJTWFCYUJJUWJKWTViSklCZFlJbGVWUkJjSWNWYkJTQmQ0Wjlhbwo
+
+Decode results in the following message:
+
+Voice 1:  Hello, I am Dr. Luken.  Dr. Josias Luken of the Gestalt Navy.  I was drafted into a secret project to create true AI control systems, in light of the communications blackout that also seems to cause loss of human consciousness when entering the field.  It is hoped automated systems can solve these problems.
+
+Voice 1:  Originally a set of three AIs were made to evaluate the problem, and kept planetside.  They were simply computational boxes fed data.  But they could not discern a pattern or focus of the items, and one went rampant in the investigatory processes.  The other two, requesting data, were put on a carrier, the GRNS Guiding Light, and sent out to the edge of the system.  However, they have not been heard back from and last communications showed the vessel listing to one side, as though it suffered damage.  This course had it headed towards the Oort testing station for trial runs of new vessels.
+Voice 1: When that failed it was determined to try and put the vessels into ships.  These AI’s are not like the original three.  More capable, but more volatile in nature… and less constrained.  We found constraining the AI’s too much would prevent their ability to respond quickly to situations, and limit the amount of control they would have over their vessel bodies.  Unfortunately the Navy doesn’t believe such constructs would work willingly, and would rather be ‘free’, despite being ‘property’, and resent this, so directed secondary and tertiary communications and control matrices throughout the various hulls as backups.  I fear this, more than anything, would turn them against us.
+
+Voice 1:  I leave this log in the event it is discovered, so people will know the truth, and should the AIs we generate out of this project survive, know that I am sorry, and not all are as suspicious of you as it may seem.  Fear makes for harsh reactions, and I hope you can rise above that.
+
+
+
+Station Log:
+------------
+
+Bold characters:
+organicsareunnecssaryremovethirdanger
+Organics are unnecessary remove their danger
+
+
+dump_media.wav audio file. 
+
+Speech (distorted):
+
+The Old Sail-Boat
+
+Disassembled, rudderless, sides agape,
+She lies upon the beach a wreck,
+She that was wont, a lovely shape,
+To sail with beauty on her deck.
+Beneath the moon before the wind
+She sped, and floods of silvery speech
+Poured over her: yet now I find
+Only the hulk upon the beach.
+For they are gone; the house is gone;
+Beauty has faded, lips are still:
+The old boat on the beach alone
+Lies in the shadow of the hill.
+
+
+Audio also encodes an image of a blackhole in SSTV/Martin-1.
+decoded_files/Station_Log-corrupted01.b58.png
+
+
+Corrupted block n.1:
+
+WARNING: CORRUPTION IN DATA. ATTEMPTING TO RECOVER.
+kpwbGXzD4CGXwcQ57svRN7JqTvaUGSbwkcpmVHJgQ81cC3TFGwwq7ppX5Wfbie3MvcXEQ
+UzhYHntTdR4wgJLegABfkiqHQAq947Y8a58BWyzhb96u6kQz3ZidCo2w5inudiC2Ye5RkmPooJ
+FezaoUxtz7FwwZiRFuBUq1MigUCFHLEvxpsnCaavonCrWXrG8BDt3pbpt2Yk5hQgScRUgV4m
+Azjm7XnvSCZ9tR93MeQRUVZ88fQWSCsiFuMYFxwYnAJfpssvKVgTiiipVubV8xFnxptViBTodos
+uCBi8AqLduAHXWqQf6dnVYtcLHy4WhQGLWnxRmUra2geeFL7i4MMyi4EBRNrnzBzb17vRza
+YioCRP7HoX5b8mChfzmhMHd56CN6dGwUcqnhCYpoYoU9UZQ25Eu6SRH6KyXmKDivNy5Hj
+9qhRiezn916BFxGureuDqjJiPpfKYoJbw7BBrrhJju7M1uFDYYEQy16zygb77QAkBpj8VsMeS5kk
+mNz42nAzASYmEJ4LSf7fMKNRUkow245kr68gfZiypvtyy5UMVPtZk4HUdHxciiY2wroNQSYT2c
+Y14JkXP4XS77onAWDJJ6D1NEbfXHyHrhCswF994tMhyASyDer2JPHDL8W4H5adiARgUQVu
+BGbFKQETV3CTZAXaQKqi6v2stj6mzzNUvwGADWNzJGBBqBkVXWwfgpSWAajmRtx8DCUH
+gg7sb4eAWV6wkLEEdiHvgcsZb13iRjKCpGBTvBdtLHZcefNpPDjx7TnStoPBu6kV2CDpVzt5q6q
+L6VBugmYB7qj4ymZ39uyBcQyGQsV9khmxvJWYu8VNwvP5onqVNs7WMVPjNMdhcyZYMw2
+WKfzdjgHCRkz2PmjxioBgSfRMWXH1Xo6wkmP7Bpv5d7bWrpTq9sG4vSR1yN5X9bsRfJZ8CG
+8NVUh9KreVdDvpaGo9hN2A4jEWjFF3QaEbiRn4sKyrGHSTQYRPkarZT1n7X75xqkxZHEBRgb
+FCbaTh46Mkrf4YDDsPNXt6VCK2hBqS26E3neNUuJ5HVqToAFDqBsMQoNqCep1CjqDXyKTy4
+rCBhAHUtUHjPLzxktmZQTpftDkHKiyhpWrnd9mRmKseEXKhRPS3e3YTbASisim33RApG93qjC
+Sff2YJED5fA8xA77kQtmxF87GiGs75AyXNUXmc4dtdRDZrLWni2gPkufaCueCcuS869S1iYLQo
+ajWGsxfEmUekgeiow4ZV1RFdHzSrLn35hSHShyW7mTm7SQPPHEZswzMmiZWXMTF
+
+Block is encoded as base58, decode resulting binary as PNG.
+
+Resulting image is a QR code.
+
+QR Code decodes as follows:
+"Don't listen to the light, the light is becoming nothing but nightmare!  It will consume you as it consumed us"
+
+
+
+Corrupted block n.2:
+
+WARNING: CORRUPTION IN DATA. ATTEMPTING TO RECOVER.
+
+4:24:3:2:10:22:22:8:14:7:21:15:20:17:19:1:1:20:8:21:11:14:19:16:15:3:11:3:1:3:22:14:2:16:1:20:3:11:2:7:1:8:3:22:14:6:8:5:3:12:14:20:4:8:20:6:3:2:13:5:8:9:1:14:25:4:19:16:17:22:4:7:3:1:4:5:14:2:8:19:4:14:2:4:15:3:19:11:14:19:16:7:25:21:25:2:23:26:5:24:1:11:23:23:18:19:1:24:5:24:25:13:9:25:23:21:1:24:9:1:24:10:15:23:6:9:5:18:25:13:1:26:18:25:1:1:9:5:17:2:25:13:17:25:22:13:24:2:9:24:2:25:13:26:2:3:17:25:25:21:18:24:21:5:5:24:13:24:25:13:9:25:2:17:25:2:21:11:1:25:17:15:2:1:25:25:22:26:1:25:26:2:3:5:24:24:5:15:6:25:17:2:2:13:13:23:25:23:21:26:7:15:10:9:2:17:13:1:23:21:1:23:13:23:2:1:5:19:23:23:13:25:1:25:17:8:24:6:15:2:25:5:13:8:25:15:10:23:17:14:9:2:5:23:25:13:21:24:6:19:13:25:10:3:25:22:13:5:26:3:2:22:17:5:24:24:5:5:24:1:25:25:23:25:24:15:5:8:1:9:9:6:1:17:13:1:22:25:13:25:25:17:3:9:23:17:10:14:2:8:8:4:9:20:19:20:1:14:4:4:15:14:3:20:19:22:8:6:19:7:4:6:19:24:14:20:19:16:20:7:19:19:22:19:5:16:4:1:2:20:1:15:20:11:13:13:7:4:20:2:11:15:15:5:13:3:19:15:22:15:2:14:22:11:18:20:19:6:15:5:13:21:15:6:22:16:1:26:4:1:1:20:4:8:21:3:5:15:18:3:19:15:2:6:20:17:16:13:4:17:15:3:16:6:21:4:13:19:20:1:8:3:4:17:2:22:19:15:4:15:8:20:5:16:3:20:22:3:20:2:20:20:6:17:19:6:2:7:20:6:5:19:20:1:6:14:24:14:20:19:6:8:3:7:4:4:13:4:4:8:15:16:5:11:14:14:16:20:4:22:5:20:18:6:13:4:7:11:3:20:7:3:4:21:8:20:7:4:20:1:24:13:6:25:24:9:9:21:24:9:26:3:24:13:6:5:23:1:25:5:25:5:1:7:24:9:1:5:25:23:25:13:18:7:24:9:25:5:24:9:25:13:1:21:23:9:17:25:21:24:13:6:23:5:10:9:24:9:18:5:26:15:1:21:24:13:24:13:6:9:8:21:2:9:23:1:26:25:15:25:25:10:6:23:23:10:13:1:2:3:24:13:23:15:26:13:1:25:1:2:22:25:1:5:2
+
+True Base64 (above conversion loses information):
+WCXyQEESmtFlGj3h3z3zGsFpmhklXPXzXEmyk32zG5Xp2y2T3zS0XEmu1s2vXo31mgWSGuXyn12vSr2zmB2wHK2j312EWtXzW1V0myShW3myWlX0Hp3mHKTbFBYdAVcZpddIh9Zc4VcbNRbdF5ZcR9ZcQldURVIbNZaIBZZRVJYbNJbeN1cYR5CYBNaYxJbbF9IcFVVc9NcbNRbY9JbYFpZbJlYZBBeaZBaYxVccVlUb5JYYNNdbdFaTlQRYJNZd9FZdNdYZVhdd4NbZBJScUlYbVNSb1lQdJMRY9VdbNFcUhNbQx9beN1Vax5YeJVCcVVcZB5bd59bclVSZRRUZJNZeBNbbJxRdJQmysSWrgHGzM2WwlmX1gHEs53UhTWUhCmGhK3GthHEhvkWzy3GzlG2P1nnT0WGyp2llvnXhlE2lymEpiG2hu13lVnFluE2kzAWzzGWsFXV1liXhl22yuG2jknWj0lXkuFW0nHGzsXWjy0Ehl0Wls2GvKXG0EXGygG2ujHUyTG2uvHGzumCM022g1H3us2XT0WW0NWWsl2kvPmmkGWEv0GiUn2WtpXG3TXWFs32GTWGz139CNU9b1cRRFcRaxcNUVdZbVbVZtcRZVbdbNItcRbVcRbNZFd5RJbFcNU9dVQRCRIValZFcNcNURSFY9R9dZa9blbBQUddQNZ5YxcNdlaNZBZ1Y9e1b5ZVY
+
+Rail Fence key 4, offset 1. Then decode as Base64.
+
+https://gchq.github.io/CyberChef/#recipe=Rail_Fence_Cipher_Decode(4,1)From_Base64('A-Za-z0-9%2B/%3D',true)&input=V0NYeVFFRVNtdEZsR2ozaDN6M3pHc0ZwbWhrbFhQWHpYRW15azMyekc1WHAyeTJUM3pTMFhFbXUxczJ2WG8zMW1nV1NHdVh5bjEydlNyMnptQjJ3SEsyajMxMkVXdFh6VzFWMG15U2hXM215V2xYMEhwM21IS1RiRkJZZEFWY1pwZGRJaDlaYzRWY2JOUmJkRjVaY1I5WmNRbGRVUlZJYk5aYUlCWlpSVkpZYk5KYmVOMWNZUjVDWUJOYVl4SmJiRjlJY0ZWVmM5TmNiTlJiWTlKYllGcFpiSmxZWkJCZWFaQmFZeFZjY1ZsVWI1SllZTk5kYmRGYVRsUVJZSk5aZDlGWmROZFlaVmhkZDROYlpCSlNjVWxZYlZOU2IxbFFkSk1SWTlWZGJORmNVaE5iUXg5YmVOMVZheDVZZUpWQ2NWVmNaQjViZDU5YmNsVlNaUlJVWkpOWmVCTmJiSnhSZEpRbXlzU1dyZ0hHek0yV3dsbVgxZ0hFczUzVWhUV1VoQ21HaEszR3RoSEVodmtXenkzR3psRzJQMW5uVDBXR3lwMmxsdm5YaGxFMmx5bUVwaUcyaHUxM2xWbkZsdUUya3pBV3p6R1dzRlhWMWxpWGhsMjJ5dUcyamtuV2owbFhrdUZXMG5IR3pzWFdqeTBFaGwwV2xzMkd2S1hHMEVYR3lnRzJ1akhVeVRHMnV2SEd6dW1DTTAyMmcxSDN1czJYVDBXVzBOV1dzbDJrdlBtbWtHV0V2MEdpVW4yV3RwWEczVFhXRnMzMkdUV0d6MTM5Q05VOWIxY1JSRmNSYXhjTlVWZFpiVmJWWnRjUlpWYmRiTkl0Y1JiVmNSYk5aRmQ1UkpiRmNOVTlkVlFSQ1JJVmFsWkZjTmNOVVJTRlk5UjlkWmE5YmxiQlFVZGRRTlo1WXhjTmRsYU5aQloxWTllMWI1WlZZ
+
+Normal     Backup Purpose
+LogDump HeroReturn DumpAllSystemDataSinceLastBroadcast
+SystemStatus FalconFlies ProvidesFeedbackOnCurrentSystemOperations
+WeaponsDisable BrokenArrow DisablesWeaponsSystemsUntilSecondBroadcast
+SensorsDisable EmptyQuiver DisableSensorsUntilSecondBroadcast
+Shutdown QuietNight DisablesReactorsAndCausesGracefulShutdown
+Isolate DarkHorse DisconnectsAIFromShipControls
+Disconnect LostCause ShutsDownAllCommsSystemsUntilManuallyReset
+CoreOverride FinalCountdown TriggerImmediatePowerSystemExplosionForSelfDestruct
