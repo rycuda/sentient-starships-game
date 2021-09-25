@@ -99,25 +99,37 @@ Cha | 11 | 0 |
 
 ### base class
 
-- The Smart Hero
+- The Smart Hero Lv 2
+ - BAB +1
+ - BDB +1
+ - reputation +1
+ - Saves
+   | Save | Stat | Bonus |  
+   | ---- | ---- | ----- |
+   | Fort | Con  |  0    |
+   | Will | Wis  |  2    |
+   | Ref  | Dex  |  0    |
  - Lv1 Savant (Repair)
  - Skills: 48
-   | Skill | Linked Stat | Ranks | Bonus
-   -------|---|---|---
-   | Disable Device | Int | 4 | +3
-   | Navigate | Int | 4 | +3
-   | Repair | Int | 4 | +3
-   | Research | Int | 4 | +3
-   | Search | Int | 4 | +3
-   | Computer Use | Int | 4 | +3
-   | Pilot | Dex | 2 | +1
-   | Knowledge (Physical Sciences) | Int | 2 | +3
-   | Knowledge (Technology) | Int | 2 | +3
-   | Craft (Mechanical) | Int | 4 | +3
-   | Craft (Structural) | Int | 4 | +3
-   | Craft (Electrical) | Int | 4 | +3
-   | Craft (Chemical) | Int | 2 | +3
-   | Craft (Pharmaceutical) | Int | 2 | +3
+   | Skill                         | Linked Stat  | Ranks | Bonus  |
+   | ----------------------------- | ------------ | ----- | ------ |
+   | Disable Device                | Int          |   5   |   +3   |
+   | Navigate                      | Int          |   5   |   +3   |
+   | Repair                        | Int          |   5   |   +5   |
+   | Research                      | Int          |   5   |   +3   |
+   | Search                        | Int          |   5   |   +3   |
+   | Computer Use                  | Int          |   5   |   +3   |
+   | Pilot                         | Dex          |   2   |   +1   |
+   | Knowledge (Physical Sciences) | Int          |   2   |   +3   |
+   | Knowledge (Technology)        | Int          |   3   |   +3   |
+   | Craft (Mechanical)            | Int          |   5   |   +5   |
+   | Craft (Structural)            | Int          |   5   |   +3   |
+   | Craft (Electrical)            | Int          |   5   |   +5   |
+   | Craft (Chemical)              | Int          |   3   |   +3   |
+   | Craft (Pharmaceutical)        | Int          |   3   |   +3   |
+
+### Feats
+Lv 2 Builder Craft (Electrical) Craft (Mechanical)
 
 ### Databanks
 **3 base + 1 from flaws**
