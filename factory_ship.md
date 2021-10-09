@@ -71,6 +71,10 @@ The device instantly feeds the mined materials directly into a designated cargoh
  - Fabricator System
  - Heavy Load Body
 
+### Gear
+
+Sass' comms contraption. +4 to bluff
+
 ### Flaws
 
 **(if desired 2 max)**
@@ -89,13 +93,13 @@ The device instantly feeds the mined materials directly into a designated cargoh
 Dex 12
 ```
 | name | score | bonus |
---- | --- | ---
-Str | |
-Dex | 12 | +1 |
-Con | - | |
-Int | 16 | +3 |
-Wis | 15 | +2 |
-Cha | 11 | 0 |
+| ---  |  ---  |  ---  |
+|  Str |       |       |
+| Dex  |    12 |    +1 |
+| Con  |     - |       |
+| Int  |    16 |    +3 |
+| Wis  |    15 |    +2 |
+| Cha  |    11 |     0 |
 
 ### base class
 
@@ -113,6 +117,7 @@ Cha | 11 | 0 |
  - Skills: 48
    | Skill                         | Linked Stat  | Ranks | Bonus  |
    | ----------------------------- | ------------ | ----- | ------ |
+   | Bluff                         | Cha          |   0   |   +4   |
    | Disable Device                | Int          |   5   |   +3   |
    | Navigate                      | Int          |   5   |   +3   |
    | Repair                        | Int          |   5   |   +5   |
