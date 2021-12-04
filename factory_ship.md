@@ -110,31 +110,35 @@ Dex 12
  - Saves
    | Save | Stat | Bonus |  
    | ---- | ---- | ----- |
-   | Fort | Con  |  0    |
+   | Fort | Con  |  1    |
    | Will | Wis  |  2    |
-   | Ref  | Dex  |  0    |
+   | Ref  | Dex  |  1    |
  - Lv1 Savant (Repair)
+ - Lv3 Savant (Research)
  - Skills: 48
    | Skill                         | Linked Stat  | Ranks | Bonus  |
    | ----------------------------- | ------------ | ----- | ------ |
    | Bluff                         | Cha          |   0   |   +4   |
-   | Disable Device                | Int          |   5   |   +3   |
+   | Disable Device                | Int          |   6   |   +3   |
    | Navigate                      | Int          |   5   |   +3   |
-   | Repair                        | Int          |   5   |   +5   |
-   | Research                      | Int          |   5   |   +3   |
+   | Repair                        | Int          |   6   |   +5   |
+   | Research                      | Int          |   6   |   +3   |
    | Search                        | Int          |   5   |   +3   |
-   | Computer Use                  | Int          |   5   |   +3   |
+   | Computer Use                  | Int          |   6   |   +3   |
    | Pilot                         | Dex          |   2   |   +1   |
-   | Knowledge (Physical Sciences) | Int          |   2   |   +3   |
-   | Knowledge (Technology)        | Int          |   3   |   +3   |
-   | Craft (Mechanical)            | Int          |   5   |   +5   |
-   | Craft (Structural)            | Int          |   5   |   +3   |
-   | Craft (Electrical)            | Int          |   5   |   +5   |
+   | Knowledge (Physical Sciences) | Int          |   5   |   +3   |
+   | Knowledge (Technology)        | Int          |   5   |   +3   |
+   | Craft (Mechanical)            | Int          |   6   |   +5   |
+   | Craft (Structural)            | Int          |   6   |   +3   |
+   | Craft (Electrical)            | Int          |   6   |   +5   |
    | Craft (Chemical)              | Int          |   3   |   +3   |
    | Craft (Pharmaceutical)        | Int          |   3   |   +3   |
 
 ### Feats
-Lv 2 Builder Craft (Electrical) Craft (Mechanical)
+| Gained | Feat Name  | description |
+| ---  |  ---  |  ---  |
+| Lv 2 Smart Hero | Builder | Gives a +2 to Craft (Electrical) Craft (Mechanical) |
+| Lv 3 character | Salvage | Adept at ripping apart destroyed vehicles, robots, stations etc for useful materials |
 
 ### Databanks
 **3 base + 1 from flaws**
