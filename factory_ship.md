@@ -121,8 +121,8 @@ Dex 12
    | Bluff                         | Cha          |   0   |   +4   |
    | Disable Device                | Int          |   6   |   +3   |
    | Navigate                      | Int          |   5   |   +3   |
-   | Repair                        | Int          |   6   |   +5   |
-   | Research                      | Int          |   6   |   +3   |
+   | Repair                        | Int          |   6   |   +6   |
+   | Research                      | Int          |   6   |   +6   |
    | Search                        | Int          |   5   |   +3   |
    | Computer Use                  | Int          |   6   |   +3   |
    | Pilot                         | Dex          |   2   |   +1   |
